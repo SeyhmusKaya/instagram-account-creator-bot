@@ -1,0 +1,1 @@
+The application works flawlessly. But ipv4 mobile requires proxy.
