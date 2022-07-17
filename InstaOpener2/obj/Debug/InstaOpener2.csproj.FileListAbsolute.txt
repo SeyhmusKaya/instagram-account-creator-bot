@@ -1,0 +1,15 @@
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\bin\Debug\InstaOpener2.exe.config
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\bin\Debug\InstaOpener2.exe
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\bin\Debug\InstaOpener2.pdb
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\bin\Debug\WebDriver.dll
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\bin\Debug\WebDriver.Support.dll
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\obj\Debug\InstaOpener2.csproj.AssemblyReference.cache
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\obj\Debug\InstaOpener2.csproj.SuggestedBindingRedirects.cache
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\obj\Debug\InstaOpener2.Form1.resources
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\obj\Debug\InstaOpener2.Properties.Resources.resources
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\obj\Debug\InstaOpener2.csproj.GenerateResource.cache
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\obj\Debug\InstaOpener2.csproj.CoreCompileInputs.cache
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\obj\Debug\InstaOpener2.csproj.CopyComplete
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\obj\Debug\InstaOpener2.exe
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\obj\Debug\InstaOpener2.pdb
+C:\Users\şeyh\source\repos\InstaOpener2\InstaOpener2\bin\Debug\OpenQA.Selenium.Chrome.ChromeDriverExtensions.dll
